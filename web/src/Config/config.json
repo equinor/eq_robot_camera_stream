@@ -1,0 +1,5 @@
+{
+    "clientId": "361668ce-44d5-4510-b5f4-919af95862c6",
+    "tenantId": "3aa4a235-b6e2-48d5-9195-7fcf05b459b0",
+    "MsalScopes": ["api://361668ce-44d5-4510-b5f4-919af95862c6/EqRobotCameraStream"]
+  }
